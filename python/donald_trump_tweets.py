@@ -1,3 +1,4 @@
+#Uses Tweepy API to download tweets and stores them in a .csv file
 #!/usr/bin/python
 import tweepy
 import csv 
