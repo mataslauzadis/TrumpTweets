@@ -3,8 +3,6 @@
 #2) Plots the frequency using nltk's plot function
 
 import nltk
-import urllib.request
-from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 import csv
 
